@@ -1,5 +1,5 @@
 # Este repositóri destina-se a atividade 1 da UC7.
-##A seguir os comandos usados para o versionamento da atividade:
+A seguir os comandos usados para o versionamento da atividade:
 1. git init
 2. git status
 3. git add Usuarios.txt
